@@ -1,0 +1,26 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "gradle",
+			"id": "/Users/klas.mellbourn/code/private/minda/trythisapp:buildapp",
+			"script": "app:build",
+			"description": "Assembles and tests this project.",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"project": "app",
+			"buildFile": "/Users/klas.mellbourn/code/private/minda/trythis/app/build.gradle.kts",
+			"rootProject": "trythis",
+			"projectFolder": "/Users/klas.mellbourn/code/private/minda/trythis",
+			"workspaceFolder": "/Users/klas.mellbourn/code/private/minda/trythis",
+			"args": "",
+			"javaDebug": false,
+			"problemMatcher": [
+				"$gradle"
+			],
+			"label": "gradle: app:build"
+		}
+	]
+}
