@@ -15,5 +15,8 @@
         "titleBar.inactiveBackground": "#d11d6999",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#d11d69"
+    "peacock.color": "#d11d69",
+    "java.checkstyle.configuration": "/google_checks.xml",
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false
 }
